@@ -1,65 +1,163 @@
-# Portfolio 2026
+# 🌸 Portfolio 2026
 
-## Description
+![Portfolio Banner](bannerpicture.png)
 
-This is my personal portfolio website developed using HTML, CSS and JavaScript. The website introduces my background, skills, projects and contact information.
+## 👋 Hey!
 
-## Features
+I'm **Isma Liyana**.
 
-- Home Page
-- About Me Page
-- Projects Page
-- Contact Page
-- Responsive Design
-- Interactive Navigation Menu
+🎓 Final Year Informatics Media Student
 
-## Technologies Used
+🏫 Universiti Sultan Zainal Abidin (UniSZA), Besut Campus
 
-- HTML
-- CSS
+💻 Passionate about Web Design, UI/UX Design and Digital Media
+
+✨ Welcome to my personal portfolio website where I showcase my projects, achievements and university journey.
+
+---
+
+## 📖 Project Overview
+
+Portfolio 2026 is a personal portfolio website developed using HTML, CSS and JavaScript.
+
+The website serves as a digital platform to introduce myself, showcase my academic projects, share my achievements and document my experiences as an Informatics Media student.
+
+One of the key sections of this website is the Journey Blog Page, where I share my university life, including assignments, coding challenges, project development, achievements and memorable experiences throughout my studies. The blog reflects the reality of student life and highlights how I continue to learn, adapt and grow through every challenge.
+
+This portfolio represents both my technical skills and personal growth during my academic journey.
+
+---
+
+## ✨ Features
+
+### 🏠 Home Page
+- Portfolio landing page
+- Personal introduction
+- Quick navigation to other sections
+
+### 👩 About Me Page
+- Educational background
+- Technical skills
+- Software proficiency
+
+### 💼 Projects Page
+- Showcase of completed projects
+- Project descriptions
+- Tools and software used in each project
+
+### 📝 Journey Blog Page
+- Personal student journey
+- University experiences
+- Assignments and project reflections
+- Coding challenges and achievements
+- Memorable moments throughout university life
+
+### 📩 Contact Page
+- Email information
+- LinkedIn profile
+- GitHub profile
+- Instagram account
+
+### 📱 Responsive Design
+- User-friendly interface
+- Consistent design across different pages
+- Easy navigation experience
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
 - JavaScript
 
-## Folder Structure
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](assets/homepage.png)
+
+### About Me Page
+
+![About Page](assets/aboutmepage.png)
+
+### Projects Page
+
+![Projects Page](assets/projectspage.png)
+
+### Journey Blog Page
+
+![Journey Blog](assets/journeyblogpage.png)
+
+### Contact Page
+
+![Contact Page](assets/contactpage.png)
+
+---
+
+## 🚀 Live Demo
+
+Portfolio Website:
+
+https://ismaliyanaa.github.io/ismaliyana-webfolio/
+
+---
+
+## 📂 GitHub Repository
+
+Repository Link:
+
+https://github.com/ismaliyanaa/ismaliyana-webfolio
+
+---
+
+## 📁 Folder Structure
 
 ```text
-ISMALIYANA-BLOG
+ISMALIYANA-WEBFOLIO
 │
 ├── assets/
 ├── fonts/
 ├── index.html
 ├── about.html
 ├── projects.html
-├── contact.html
 ├── journeyblog.html
+├── contact.html
 ├── style.css
 ├── projects.css
-├── contact.css
 ├── journey.css
+├── contact.css
 └── README.md
 ```
 
-## Screenshots
+## ▶️ How to Run the Project
 
-### Home Page
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in your preferred web browser.
+4. Navigate through the pages using the menu provided.
+5. Explore the Home, About Me, Projects, Journey Blog and Contact sections.
 
-(Add screenshot here)
+---
 
-### About Page
+## 👩 Author
 
-(Add screenshot here)
+**Isma Liyana**
 
-### Projects Page
+Final Year Informatics Media Student
 
-(Add screenshot here)
+Universiti Sultan Zainal Abidin (UniSZA)
 
-### Contact Page
+GitHub: https://github.com/ismaliyanaa
 
-(Add screenshot here)
+Portfolio Website:
+https://ismaliyanaa.github.io/ismaliyana-webfolio/
 
-## How to Run
+---
 
-1. Download the project files.
-2. Open index.html in a web browser.
+⭐ Thank you for visiting my portfolio website!
 3. Browse the website using the navigation menu.
 
 ## Author
