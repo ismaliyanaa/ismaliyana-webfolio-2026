@@ -101,7 +101,7 @@ This portfolio represents both my technical skills and personal growth during my
 
 Portfolio Website:
 
-https://ismaliyanaa.github.io/ismaliyana-webfolio/
+https://ismaliyanaa.github.io/ismaliyana-webfolio-2026/
 
 ---
 
@@ -109,7 +109,7 @@ https://ismaliyanaa.github.io/ismaliyana-webfolio/
 
 Repository Link:
 
-https://github.com/ismaliyanaa/ismaliyana-webfolio
+https://github.com/ismaliyanaa/ismaliyana-webfolio-2026
 
 ---
 
@@ -153,7 +153,7 @@ Universiti Sultan Zainal Abidin (UniSZA)
 GitHub: https://github.com/ismaliyanaa
 
 Portfolio Website:
-https://ismaliyanaa.github.io/ismaliyana-webfolio/
+https://ismaliyanaa.github.io/ismaliyana-webfolio-2026/
 
 ---
 
