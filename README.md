@@ -1,6 +1,6 @@
 # 🌸 Portfolio 2026
 
-![Portfolio Banner](bannerpicture.png)
+![Portfolio Banner](assets/bannerpicture.png)
 
 ## 👋 Hey!
 
