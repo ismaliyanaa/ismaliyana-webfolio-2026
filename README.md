@@ -134,11 +134,8 @@ ISMALIYANA-WEBFOLIO
 
 ## ▶️ How to Run the Project
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open `index.html` in your preferred web browser.
-4. Navigate through the pages using the menu provided.
-5. Explore the Home, About Me, Projects, Journey Blog and Contact sections.
+1. Open the live demo link to access the website.
+2. Alternatively, clone or download the repository to view the source code.
 
 ---
 
